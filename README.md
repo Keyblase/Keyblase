@@ -1,5 +1,5 @@
-### Hi there, I'm [Hemant!](https://hemant.codes) 👋.  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
-
+### Hi 🙋‍♂️,
+### I'm 20 years old Back-End developer from Brazil.
 
 <br/>
 <a href="https://www.instagram.com/nicolassanchezsoa/">
@@ -11,8 +11,7 @@
 <br />
 
 
-### Hi 🙋‍♂️,
-### I'm 20 years old Back-End developer from Brazil.
+
 
 <br />
 
