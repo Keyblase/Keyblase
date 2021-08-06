@@ -2,11 +2,6 @@
 ### I'm 21 years old Back-End developer from Brazil.
 
 <br/>
-
-![](https://visitor-badge.glitch.me/badge?page_id=8bithemant.8bithemant)
-
-<br />
-
 **I am Into , 🙏**
 
 **ASP.NET CORE MVC, Web Development, Unity .**
