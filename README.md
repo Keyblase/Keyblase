@@ -7,8 +7,12 @@
 **ASP.NET CORE MVC, Web Development, Unity .**
 <br />
 
-
-![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=Keyblase&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<div>
+  <a href="https://github.com/keyblase">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keyblase&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyblase&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ 
 
 <br />
 
