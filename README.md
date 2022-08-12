@@ -1,10 +1,10 @@
 ### Hi 🙋‍♂️,
-### I'm 21 years old developer from Brazil.
+### I'm 2w years old developer from Brazil.
 
 <br/>
 **I am Into ,**
 
-**ASP.NET CORE MVC, Web Development, Unity .**
+**ASP.NET,Asp Classic CORE MVC, Web Development, Unity .**
 <br />
 
 <div>
