@@ -65,7 +65,7 @@
 [<img align="left" height="94px" width="94px" alt="OctoTi" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5G0gwbTZ0lSyeL5jPKO2DhYwHwq4vF0XFG6shDmnM8QO2dhUD6J8RHxsEU7-EP3W47OY&usqp=CAU"/>](https://mastersgi.com.br/)
 
 **Web Developer** \
-[**Octo TI**](https://www.spacex.com/) • Full-time \
+[**Octo TI**](https://mastersgi.com.br/) • Full-time \
 Languages & technologies: `C#`, `.NET`, `MVC`, `JavaScript`, `Jquery`, `Asp classic`,\
 Description: Project currently with 5 collaborators, being a medium-sized project that promotes a management system for companies. My challenges involve maintaining a legacy system in Classic ASP, gradually migrating from this technology to .Net 6 or above. There's a greater need for understanding the company's business structure and the underlying code on my own, due to the departure of more senior professionals from the company. Responsibilities include cross-developer merging for the test environment (QA). To address the issues with understanding the current code, after grasping the workflow, important documentation was created and existing documentation was supplemented. This has had an impact on the speed of future deliveries and has fostered team unity through the exchange of information via this documentation, leading to improvements. The main lesson learned is that apart from well-written code, if its complexity is high, relevant documentation becomes essential.
 <br/>
