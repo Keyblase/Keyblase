@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Bachelor of Computer Science and Technician in Digital Game Programming acting as <strong>back-end programmer in C# language </strong>, level C1 Ingles (Intermediate). With approximately 2 years of internship experience and a 1 year as a Junior Programmer. Lately I'm in studies more focused on Asp Classic, .NET MVC and Docker.
+  Bachelor of Computer Science and Technician in Digital Game Programming acting as <strong>back-end programmer in C# language </strong>, level C1 Ingles (Intermediate). With approximately 4 years as Programmer. Lately I'm in studies more focused on Asp Classic, .NET MVC and Docker.
 </p>
 
 <p align="left">
