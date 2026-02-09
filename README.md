@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Bachelor of Computer Science and Technician in Digital Game Programming acting as <strong>back-end programmer in C# language </strong>, level C1 Ingles (Intermediate). With approximately 4 years as Programmer. Lately I'm in studies more focused on Asp Classic, .NET MVC and Docker.
+  Bachelor of Computer Science and Technician in Digital Game Programming acting as <strong>back-end programmer in C# language </strong>, level C1 Ingles (Intermediate). With approximately 6 years as Programmer. Lately I'm in studies more focused on AI Agents, prompting and RAG.
 </p>
 
 <p align="left">
@@ -11,6 +11,7 @@
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 </p>
 
@@ -29,6 +30,9 @@
   ![image](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)  
   ![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
   ![image](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)
+  ![image](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  
 </p>
 
 <p align="left">
@@ -44,23 +48,22 @@
 </p>
 <br />
 
-<div>
-  <a href="https://github.com/keyblase">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keyblase&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyblase&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/keyblase/count.svg" />  
-</p>
-
-<br />
-
 ### Work Expirence
+[<img align="left" height="94px" width="94px" alt="Zeev" src="https://github.com/user-attachments/assets/18606d0b-7c12-4583-97f6-4f414f0b63d1"/>](https://zeev.it/)
+
+**AI Programmer Analyst** \
+[**Zeev by Stoque**](https://zeev.it/) • Full-time \
+Languages & technologies: `C#`, `.NET`, `AI`, `Agents`, `Node.js`, `Azure`,\
+Description: 
+  -  Development of Artificial Intelligence features in the Zeev platform.
+  - Creation of internal AI products (Generative AI, AI Agents).
+  - Design and optimization of AI automation strategies across the company.
+  - Integration of AI Agents into Zeev, expanding product capabilities.
+  - Development of new features in a Low-Code product.
+  - Implementation of improvements in Zeev, focused on Product Led Growth (PLG).
+  - Technical evaluations and Kaizens to improve internal processes.
+<br/>
+
 
 [<img align="left" height="94px" width="94px" alt="OctoTi" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5G0gwbTZ0lSyeL5jPKO2DhYwHwq4vF0XFG6shDmnM8QO2dhUD6J8RHxsEU7-EP3W47OY&usqp=CAU"/>](https://mastersgi.com.br/)
 
@@ -72,6 +75,4 @@ Description: Project currently with 5 collaborators, being a medium-sized projec
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/nicolas-sanchez-soares-ba56b4170) for a more detailed description of my work experience, education and certification.
 
-#### Thank You-🙏🏼
-
-⭐️ From [Keyblase](https://github.com/Keyblase)
+#### Thank You , let's make your world a better place -🙏🏼
